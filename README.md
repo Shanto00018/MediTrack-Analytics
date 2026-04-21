@@ -137,7 +137,7 @@ DB_NAME=your_database_name_here
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/MediTrack-Analytics.git
+git clone https://github.com/Shanto00018/MediTrack-Analytics.git
 cd MediTrack-Analytics
 ```
 
@@ -206,4 +206,4 @@ MediTrack-Analytics/
 ## Author
 
 **Shanto** — Final Year CSE Student, BUET  
-GitHub: [yourusername](https://github.com/yourusername)
+GitHub: [Shanto00018](https://github.com/Shanto00018)
